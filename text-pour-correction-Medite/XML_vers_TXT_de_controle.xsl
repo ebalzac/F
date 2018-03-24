@@ -16,9 +16,9 @@
             <xsl:apply-templates/><xsl:text>
 </xsl:text>
         </xsl:template>
-        <!--<xsl:template match="tei:hi">
+        <xsl:template match="tei:hi">
             <xsl:text>***</xsl:text><xsl:apply-templates/><xsl:text>***</xsl:text>
-        </xsl:template>-->
+        </xsl:template>
         <xsl:template match="tei:pb">
             <xsl:text>
 </xsl:text><xsl:value-of select="@n"/><xsl:text>
