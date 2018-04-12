@@ -77,8 +77,8 @@
 <titlePart type="main">Madame Firmiani</titlePart>
 </docTitle>
 </titlePage>
-<div type="dedication"><pb n="231" xml:id="p231"/>
-<salute>À MON CHER ALEXANDRE DE BERNY,</salute>
+<div type="dedication">
+<salute><pb n="231" xml:id="p231"/> À MON CHER ALEXANDRE DE BERNY,</salute>
 <p rend="noindent">Son vieil ami,</p>
 <signed>
 <hi rend="sc">de Balzac</hi>.</signed>

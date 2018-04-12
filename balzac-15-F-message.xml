@@ -81,8 +81,8 @@
 <titlePart type="main">Le Message</titlePart>
 </docTitle>
 </titlePage>
-<div type="dedication"><pb n="361" xml:id="p361"/>
-<salute>À MONSIEUR LE MARQUIS DAMASO PARETO</salute>
+<div type="dedication">
+    <salute><pb n="361" xml:id="p361"/> À MONSIEUR LE MARQUIS DAMASO PARETO</salute>
 </div>
 </front>
 <body>
