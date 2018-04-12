@@ -85,8 +85,8 @@
 <titlePart type="main">Autre étude de femme</titlePart>
 </docTitle>
 </titlePage>
-<div type="dedication"><pb n="423" xml:id="p423"/>
-  <salute>DÉDIÉ À LÉON GOZLAN</salute>
+<div type="dedication">
+  <salute><pb n="423" xml:id="p423"/>DÉDIÉ À LÉON GOZLAN</salute>
 <p rend="noindent">Comme un témoignage de bonne confraternité littéraire.</p>
 </div>
 </front>
