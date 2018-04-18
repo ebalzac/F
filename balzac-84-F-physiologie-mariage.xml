@@ -122,9 +122,8 @@
 <head>Première partie <lb>
 </lb>Considérations générales</head>
 <epigraph>
-<p><pb n="346" xml:id="p346"/>
-Nous parlerons contre les lois insensées jusqu’à ce qu’on les réforme, et en attendant nous nous y soumettrons aveuglément.</p>
-<bibl>(<hi rend="sc">Diderot</hi>,<title> Supplément au Voyage de Bougainville</title> .)</bibl>
+<p><pb n="346" xml:id="p346"/> Nous parlerons contre les lois insensées jusqu’à ce qu’on les réforme, et en attendant nous nous y soumettrons aveuglément.</p>
+<bibl>(<hi rend="sc">Diderot</hi>,<title> Supplément au Voyage de Bougainville</title>.)</bibl>
 </epigraph>
 <div>
 <head>Méditation I <lb/>Le sujet</head>
@@ -263,7 +262,7 @@ Nous parlerons contre les lois insensées jusqu’à ce qu’on les réforme, et
 </div>
 <div><pb n="361" xml:id="p361"/>
 <head>Méditation III <lb/>De la femme honnête</head>
-<p rend="noindent"> La Méditation précédente a démontré que nous possédons en France une masse flottante d’un million de femmes, exploitant le privilége d’inspirer les passions qu’un galant homme avoue sans honte ou cache avec plaisir. C’est donc sur ce million de femmes qu’il faut promener notre lanterne diogénique, pour trouver les femmes honnêtes du pays.</p>
+<p rend="noindent">La Méditation précédente a démontré que nous possédons en France une masse flottante d’un million de femmes, exploitant le privilége d’inspirer les passions qu’un galant homme avoue sans honte ou cache avec plaisir. C’est donc sur ce million de femmes qu’il faut promener notre lanterne diogénique, pour trouver les femmes honnêtes du pays.</p>
 <p>Cette recherche nous entraîne à quelques digressions.</p>
 <p>Deux jeunes gens bien mis, dont le corps svelte et les bras arrondis ressemblent à la demoiselle d’un paveur, et dont les bottes sont supérieurement faites, se rencontrent un matin sur le boulevard, à la sortie du passage des Panoramas. – Tiens, c’est toi ! – Oui, mon cher, je me ressemble, n’est-ce pas ? Et de rire plus ou moins spirituellement, suivant la nature de la plaisanterie qui ouvre la conversation.</p>
 <p>Quand ils se sont examinés avec la curiosité sournoise d’un gendarme qui cherche à reconnaître un signalement, qu’ils sont bien convaincus de la fraîcheur respective de leurs gants, de leurs gilets et de la grâce avec laquelle leurs cravates sont nouées ; qu’ils sont à peu près certains qu’aucun d’eux n’est tombé dans le malheur, ils se prennent le bras ; et s’ils partent du théâtre des Variétés, ils n’arriveront pas à la hauteur de Frascati sans s’être adressé une question un peu drue, dont voici la traduction libre : – Qui épousons-nous pour le moment ?…</p>
@@ -646,11 +645,9 @@ Nous parlerons contre les lois insensées jusqu’à ce qu’on les réforme, et
 <p>Et si dans la Méditation précédente nous avons réussi à vous démontrer que le plus grand nombre des hommes reste dans la plus profonde incurie de son propre bonheur en fait de mariage, est-il raisonnable de croire qu’il se rencontrera beaucoup de gens assez riches, assez spirituels, assez observateurs, pour perdre, comme le Burchell du <hi rend="i">Vicaire de Wakefield</hi>, une ou deux années de leur temps à deviner, à épier les filles dont ils feront leurs femmes, quand ils s’occupent si peu d’elles après les avoir conjugalement possédées pendant ce laps de temps que les Anglais nomment la <hi rend="i">Lune de miel</hi>, et de laquelle nous ne tarderons pas à discuter l’influence ?</p>
 <p>Cependant, comme nous avons long-temps réfléchi sur cette matière importante, nous ferons observer qu’il existe quelques moyens de choisir plus ou moins bien, même en choisissant promptement.</p>
 <p>Il est, par exemple, hors de doute que les probabilités seront en votre faveur :</p>
-<p>1º</p>
-<p>Si vous avez pris une demoiselle dont le tempérament ressemble à celui des femmes de la Louisiane ou de la Caroline.</p>
+<p>1º Si vous avez pris une demoiselle dont le tempérament ressemble à celui des femmes de la Louisiane ou de la Caroline.</p>
 <p>Pour obtenir des renseignements certains sur le tempérament <pb n="400" xml:id="p400"/> d’une jeune personne, il faut mettre en vigueur auprès des femmes de chambre le système dont parle Gil Blas, et employé par un homme d’État pour connaître les conspirations ou savoir comment les ministres avaient passé la nuit.</p>
-<p>2º</p>
-<p>Si vous choisissez une demoiselle qui, sans être laide, ne soit pas dans la classe des jolies femmes.</p>
+<p>2º Si vous choisissez une demoiselle qui, sans être laide, ne soit pas dans la classe des jolies femmes.</p>
 <p>Nous regardons comme un principe certain que, pour être le moins malheureux possible en ménage, une grande douceur d’âme unie chez une femme à une laideur supportable sont deux éléments infaillibles de succès.</p>
 <p>Mais voulez-vous savoir la vérité ? ouvrez Rousseau, car il ne s’agitera pas une question de morale publique de laquelle il n’ait d’avance indiqué la portée. Lisez :</p>
 <quote>
@@ -883,10 +880,8 @@ Nous parlerons contre les lois insensées jusqu’à ce qu’on les réforme, et
 <head>Deuxième partie <lb/>Des moyens de défense à l’intérieur et à l’extérieur</head>
 <epigraph>
 <p>
-<hi rend="i">To be or not be…</hi>
-<lb/>L’être ou ne pas l’être, voilà toute la question.</p>
-<bibl>
-<title>Shakespeare</title>, <hi rend="sc">Hamlet</hi>.</bibl>
+<hi rend="i">To be or not be… </hi><lb/>L’être ou ne pas l’être, voilà toute la question.</p>
+<bibl><title>Shakespeare</title>, <hi rend="sc">Hamlet</hi>.</bibl>
 </epigraph>
 <div>
 <head>Méditation X <lb/>Traité de politique maritale</head>
@@ -1414,76 +1409,49 @@ Nous parlerons contre les lois insensées jusqu’à ce qu’on les réforme, et
 <head>De l’irrésistible</head>
 <p>Deux maris étant donnés, et qui seront A, B, sont supposés vouloir découvrir quels sont les amants de leurs femmes. Nous mettrons le mari A au centre d’une table chargée des plus belles pyramides de fruits, de cristaux, de sucreries, de liqueurs, et le mari B sera sur tel point de ce cercle brillant qu’il vous plaira de supposer. Le vin de Champagne a circulé, tous les yeux brillent et toutes les langues sont en mouvement.</p>
 <q type="drama">
+<p><hi rend="sc">Mari</hi> A. (<hi rend="i">Épluchant un marron.</hi>) Eh ! bien, moi, j’admire les gens de lettres, mais de loin ; je les trouve insupportables, ils ont une conversation despotique ; je ne sais ce qui nous blesse le plus de leurs défauts ou de leurs qualités, car il semble vraiment que la supériorité de l’esprit ne serve qu’à mettre en relief leurs défauts et leurs qualités. Bref !… (<hi rend="i">Il gobe son marron.</hi>) Les gens de génie sont des élixirs, si vous voulez, mais il faut en user sobrement.</p>
+<p><hi rend="sc">Femme</hi> B. (<hi rend="i">Qui était attentive</hi>.) Mais, monsieur A, vous êtes bien difficile ! (<hi rend="i">Elle sourit malicieusement.</hi>) Il me semble que les sots ont tout autant de défauts que les gens de talent, à cette différence près qu’ils ne savent pas se les faire pardonner !…</p>
+<p><hi rend="sc">Mari</hi> A. (<hi rend="i">Piqué</hi>.) Vous conviendrez, au moins, madame, qu’ils ne sont guère aimables auprès de vous…</p>
+<p><hi rend="sc">Femme</hi> B. (<hi rend="i">Vivement.</hi>) Qui vous l’a dit ?</p>
+<p><hi rend="sc">Mari</hi> A. (<hi rend="i">Souriant.</hi>) Ne vous écrasent-ils pas à toute heure de leur supériorité ? La vanité est si puissante dans leurs âmes, qu’entre vous et eux il doit y avoir double emploi…</p>
+    <p><hi rend="sc">La maîtresse</hi> de la maison. (<hi rend="i">À part à la </hi><hi rend="sc">Femme A.</hi>) Tu l’as bien mérité, ma chère… (<hi rend="i">La femme A lève les épaules.</hi>)</p>
+<p><hi rend="sc">Mari</hi> A. (<hi rend="i">Continuant toujours</hi>.) Puis l’habitude qu’ils ont de combiner des idées leur révélant le mécanisme des sentiments, <pb n="514" xml:id="p514"/> pour eux l’amour devient purement physique, et l’on sait qu’ils ne brillent pas…</p>
+<p><hi rend="sc">Femme</hi> B. (<hi rend="i">Se pinçant les lèvres et interrompant</hi>.) Il me semble, monsieur, que nous sommes seules juges de ce procès-là. Mais, je conçois que les gens du monde n’aiment pas les gens de lettres !… Allez, il vous est plus facile de les critiquer que de leur ressembler.</p>
+<p><hi rend="sc">Mari</hi> A. (<hi rend="i">Dédaigneusement</hi>.) Oh ! madame, les gens du monde peuvent attaquer les auteurs du temps présent sans être taxés d’envie. Il y a tel homme de salon qui, s’il écrivait…</p>
+<p><hi rend="sc">Femme</hi> B. (<hi rend="i">Avec chaleur.</hi>) Malheureusement pour vous, monsieur, quelques-uns de vos amis de la Chambre ont écrit des romans, avez-vous pu les lire ?… Mais vraiment, aujourd’hui, il faut faire des recherches historiques pour la moindre conception, il faut…</p>
+<p><hi rend="sc">Mari</hi> B. (<hi rend="i">Ne répondant plus à sa voisine, et à part.</hi>) Oh ! oh ! est-ce que ce serait M. de L. (l’auteur des <hi rend="i">Rêves d’une jeune fille</hi>), que ma femme aimerait… Cela est singulier, je croyais que c’était le docteur M… Voyons… (<hi rend="i">Haut.</hi>) Savez-vous, ma chère, que vous avez raison dans ce que vous dites ? (<hi rend="i">On rit.</hi>) Vraiment, je préférerai toujours avoir dans mon salon des artistes et des gens de lettres (<hi rend="i">À part</hi> : Quand nous recevrons) à y voir des gens d’autres métiers. Au moins les artistes parlent de choses qui sont à la portée de tous les esprits ; car, quelle est la personne qui ne se croit pas du goût ? Mais les juges, les avocats, les médecins surtout… ah ! j’avoue que les entendre toujours parler procès et maladie, les deux genres d’infirmités humaines qui…</p>
 <p>
-<hi rend="sc">Mari</hi> A.
-</p>
-<p>(<hi rend="i">Épluchant un marron.</hi>) Eh ! bien, moi, j’admire les gens de lettres, mais de loin ; je les trouve insupportables, ils ont une conversation despotique ; je ne sais ce qui nous blesse le plus de leurs défauts ou de leurs qualités, car il semble vraiment que la supériorité de l’esprit ne serve qu’à mettre en relief leurs défauts et leurs qualités. Bref !… (<hi rend="i">Il gobe son marron.</hi>) Les gens de génie sont des élixirs, si vous voulez, mais il faut en user sobrement.</p>
+<hi rend="sc">Femme</hi> B. (<hi rend="i">Quittant sa conversation avec sa voisine pour répondre à son mari.</hi>) Ah ! les médecins sont insupportables !…</p>
 <p>
-<hi rend="sc">Femme</hi> B.
-</p>
-<p> (<hi rend="i">Qui était attentive</hi>.) Mais, monsieur A, vous êtes bien difficile ! (<hi rend="i">Elle sourit malicieusement.</hi>) Il me semble que les sots ont tout autant de défauts que les gens de talent, à cette différence près qu’ils ne savent pas se les faire pardonner !…</p>
+<hi rend="sc">Femme</hi> A. (<hi rend="i">La voisine du mari B, parlant en même temps.</hi>) Mais qu’est-ce que vous dites donc là, mon voisin ?… Vous vous trompez étrangement. Aujourd’hui, personne ne veut avoir l’air d’être ce qu’il est : les médecins, puisque vous citez les médecins, s’efforcent toujours de ne pas s’entretenir de l’art qu’ils professent. Ils parlent politique, modes, spectacles ; racontent, font des livres mieux que les auteurs même, et il y a loin d’un médecin d’aujourd’hui à ceux de Molière…</p>
 <p>
-<hi rend="sc">Mari</hi> A. (<hi rend="i">Piqué</hi>.) Vous conviendrez, au moins, madame, qu’ils ne sont guère aimables auprès de vous…</p>
+<hi rend="sc">Mari</hi>  A.(<hi rend="i">À part</hi>.) Ouais ! ma femme aimerait le docteur M… ? <pb n="515" xml:id="p515"/> voilà qui est particulier. (<hi rend="i">Haut.</hi>) Cela est possible, ma chère, mais je ne donnerais pas mon chien à soigner aux médecins qui écrivent.</p>
 <p>
-<hi rend="sc">Femme</hi> B. (<hi rend="i">Vivement.</hi>) Qui vous l’a dit ?</p>
+<hi rend="sc">Femme</hi> A. (<hi rend="i">Interrompant son mari.</hi>) Cela est injuste ; je connais des gens qui ont cinq à six places, et en qui le gouvernement paraît avoir assez de confiance ; d’ailleurs, il est plaisant, monsieur A., que ce soit vous qui disiez cela, vous qui faites le plus grand cas du docteur M…</p>
 <p>
-<hi rend="sc">Mari</hi> A.(<hi rend="i">Souriant.</hi>) Ne vous écrasent-ils pas à toute heure de leur supériorité ? La vanité est si puissante dans leurs âmes, qu’entre vous et eux il doit y avoir double emploi…</p>
-<p>
-<hi rend="sc">La maîtresse</hi> de la maison. (<hi rend="i">À part à la <hi rend="sc">Femme A.</hi>
-</hi>) Tu l’as bien mérité, ma chère… (<hi rend="i">La femme A lève les épaules.</hi>)</p>
-<p>
-<hi rend="sc">Mari A.</hi> (<hi rend="i">Continuant toujours</hi>.) Puis l’habitude qu’ils ont de combiner des idées leur révélant le mécanisme des sentiments, <pb n="514" xml:id="p514"/> pour eux l’amour devient purement physique, et l’on sait qu’ils ne brillent pas…</p>
-<p>
-<hi rend="sc">Femme B.</hi> (<hi rend="i">Se pinçant les lèvres et interrompant</hi>.) Il me semble, monsieur, que nous sommes seules juges de ce procès-là. Mais, je conçois que les gens du monde n’aiment pas les gens de lettres !… Allez, il vous est plus facile de les critiquer que de leur ressembler.</p>
-<p>
-<hi rend="sc">Mari A.</hi> (<hi rend="i">Dédaigneusement</hi>.) Oh ! madame, les gens du monde peuvent attaquer les auteurs du temps présent sans être taxés d’envie. Il y a tel homme de salon qui, s’il écrivait…</p>
-<p>
-<hi rend="sc">Femme B.</hi> (<hi rend="i">Avec chaleur.</hi>) Malheureusement pour vous, monsieur, quelques-uns de vos amis de la Chambre ont écrit des romans, avez-vous pu les lire ?… Mais vraiment, aujourd’hui, il faut faire des recherches historiques pour la moindre conception, il faut…</p>
-<p>
-<hi rend="sc">Mari B.</hi> (<hi rend="i">Ne répondant plus à sa voisine, et à part.</hi>) Oh ! oh ! est-ce que ce serait M. de L. (l’auteur des <hi rend="i">Rêves d’une jeune fille</hi>), que ma femme aimerait… Cela est singulier, je croyais que c’était le docteur M… Voyons… (<hi rend="i">Haut.</hi>) Savez-vous, ma chère, que vous avez raison dans ce que vous dites ? (<hi rend="i">On rit.</hi>) Vraiment, je préférerai toujours avoir dans mon salon des artistes et des gens de lettres (<hi rend="i">À part</hi> : Quand nous recevrons) à y voir des gens d’autres métiers. Au moins les artistes parlent de choses qui sont à la portée de tous les esprits ; car, quelle est la personne qui ne se croit pas du goût ? Mais les juges, les avocats, les médecins surtout… ah ! j’avoue que les entendre toujours parler procès et maladie, les deux genres d’infirmités humaines qui…</p>
-<p>
-<hi rend="sc">Femme B.</hi> (<hi rend="i">Quittant sa conversation avec sa voisine pour répondre à son mari.</hi>) Ah ! les médecins sont insupportables !…</p>
-<p>
-<hi rend="sc">Femme A.</hi> (<hi rend="i">La voisine du mari B, parlant en même temps.</hi>) Mais qu’est-ce que vous dites donc là, mon voisin ?… Vous vous trompez étrangement. Aujourd’hui, personne ne veut avoir l’air d’être ce qu’il est : les médecins, puisque vous citez les médecins, s’efforcent toujours de ne pas s’entretenir de l’art qu’ils professent. Ils parlent politique, modes, spectacles ; racontent, font des livres mieux que les auteurs même, et il y a loin d’un médecin d’aujourd’hui à ceux de Molière…</p>
-<p>
-<hi rend="sc">Mari A.</hi> (<hi rend="i">À part</hi>.) Ouais ! ma femme aimerait le docteur M… ? <pb n="515" xml:id="p515"/> voilà qui est particulier. (<hi rend="i">Haut.</hi>) Cela est possible, ma chère, mais je ne donnerais pas mon chien à soigner aux médecins qui écrivent.</p>
-<p>
-<hi rend="sc">Femme A.</hi> (<hi rend="i">Interrompant son mari.</hi>) Cela est injuste ; je connais des gens qui ont cinq à six places, et en qui le gouvernement paraît avoir assez de confiance ; d’ailleurs, il est plaisant, monsieur A., que ce soit vous qui disiez cela, vous qui faites le plus grand cas du docteur M…</p>
-<p>
-<hi rend="sc">Mari A.</hi> (<hi rend="i">À part.</hi>) Plus de doute.</p>
+<hi rend="sc">Mari</hi> A. (<hi rend="i">À part.</hi>) Plus de doute.</p>
 </q>
 </div>
 <div>
 <head>La fallacieuse</head>
 <q type="drama">
-<p>
-<hi rend="sc">Un mari.</hi> (<hi rend="i">Rentrant chez lui.</hi>) Ma chère, nous sommes invités par madame de Fischtaminel au concert qu’elle donnera mardi prochain. Je comptais y aller pour parler au jeune cousin du ministre qui devait y chanter ; mais il est allé à Frouville, chez sa tante. Que prétends-tu faire ?…</p>
-<p>
-<hi rend="sc">La femme.</hi> Mais les concerts m’ennuient à la mort !… Il faut rester clouée sur une chaise des heures entières sans rien dire… Tu sais bien d’ailleurs que nous dînons ce jour-là chez ma mère, et qu’il nous est impossible de manquer à lui souhaiter sa fête.</p>
-<p>
-<hi rend="sc">Le mari.</hi> (<hi rend="i">Négligemment.</hi>) Ah ! c’est vrai.</p>
+<p><hi rend="sc">Un mari.</hi> (<hi rend="i">Rentrant chez lui.</hi>) Ma chère, nous sommes invités par madame de Fischtaminel au concert qu’elle donnera mardi prochain. Je comptais y aller pour parler au jeune cousin du ministre qui devait y chanter ; mais il est allé à Frouville, chez sa tante. Que prétends-tu faire ?…</p>
+<p><hi rend="sc">La femme.</hi> Mais les concerts m’ennuient à la mort !… Il faut rester clouée sur une chaise des heures entières sans rien dire… Tu sais bien d’ailleurs que nous dînons ce jour-là chez ma mère, et qu’il nous est impossible de manquer à lui souhaiter sa fête.</p>
+<p><hi rend="sc">Le mari.</hi> (<hi rend="i">Négligemment.</hi>) Ah ! c’est vrai.</p>
 <p>(<hi rend="i">Trois jours après</hi>.)</p>
-<p>
-<hi rend="sc">Le mari.</hi> (<hi rend="i">En se couchant.</hi>) Tu ne sais pas, mon ange ? Demain, je te laisserai chez ta mère, parce que le comte est revenu de Frouville, et qu’il sera chez madame de Fischtaminel.</p>
-<p>
-<hi rend="sc">La femme.</hi> (<hi rend="i">Vivement.</hi>) Mais pourquoi irais-tu donc tout seul ? Voyez un peu, moi qui adore la musique !</p>
+<p><hi rend="sc">Le mari.</hi> (<hi rend="i">En se couchant.</hi>) Tu ne sais pas, mon ange ? Demain, je te laisserai chez ta mère, parce que le comte est revenu de Frouville, et qu’il sera chez madame de Fischtaminel.</p>
+<p><hi rend="sc">La femme.</hi> (<hi rend="i">Vivement.</hi>) Mais pourquoi irais-tu donc tout seul ? Voyez un peu, moi qui adore la musique !</p>
 </q>
 </div>
 <div>
 <head>La souricière à détente</head>
 <q type="drama">
-<p>
-<hi rend="sc">La femme.</hi> Pourquoi vous en allez-vous donc de si bonne heure ce soir ?…</p>
-<p>
-<hi rend="sc">Le mari.</hi> (<hi rend="i">Mystérieusement.</hi>) Ah ! c’est pour une affaire d’autant plus douloureuse, que je ne vois vraiment pas comment je vais faire pour l’arranger !…</p>
-<p>
-<hi rend="sc">La femme.</hi> De quoi s’agit-il donc ? Adolphe, tu es un monstre si tu ne me dis pas ce que tu vas faire…</p>
-<p>
-<hi rend="sc">Le mari.</hi> Ma chère, cet étourdi de Prosper Magnan a un duel <pb n="516" xml:id="p516"/> avec monsieur de Fontanges à propos d’une fille d’Opéra… Qu’as-tu donc ?…</p>
-<p>
-<hi rend="sc">La femme.</hi> Rien… Il fait très-chaud ici. Ensuite, je ne sais pas d’où cela peut venir… mais pendant toute la journée… il m’a monté des feux au visage…</p>
-<p>
-<hi rend="sc">Le mari.</hi> (<hi rend="i">À part.</hi>) Elle aime monsieur de Fontanges ! (<hi rend="i">Haut.</hi>) Célestine ! (<hi rend="i">Il crie plus fort.</hi>) Célestine, accourez donc, madame se trouve mal !…</p>
+<p><hi rend="sc">La femme.</hi> Pourquoi vous en allez-vous donc de si bonne heure ce soir ?…</p>
+<p><hi rend="sc">Le mari.</hi> (<hi rend="i">Mystérieusement.</hi>) Ah ! c’est pour une affaire d’autant plus douloureuse, que je ne vois vraiment pas comment je vais faire pour l’arranger !…</p>
+<p><hi rend="sc">La femme.</hi> De quoi s’agit-il donc ? Adolphe, tu es un monstre si tu ne me dis pas ce que tu vas faire…</p>
+<p><hi rend="sc">Le mari.</hi> Ma chère, cet étourdi de Prosper Magnan a un duel <pb n="516" xml:id="p516"/> avec monsieur de Fontanges à propos d’une fille d’Opéra… Qu’as-tu donc ?…</p>
+<p><hi rend="sc">La femme.</hi> Rien… Il fait très-chaud ici. Ensuite, je ne sais pas d’où cela peut venir… mais pendant toute la journée… il m’a monté des feux au visage…</p>
+<p><hi rend="sc">Le mari.</hi> (<hi rend="i">À part.</hi>) Elle aime monsieur de Fontanges ! (<hi rend="i">Haut.</hi>) Célestine ! (<hi rend="i">Il crie plus fort.</hi>) Célestine, accourez donc, madame se trouve mal !…</p>
 </q>
 <p>Vous comprenez qu’un mari d’esprit doit trouver mille manières de tendre ces trois espèces de souricières.</p>
 </div>
@@ -1523,7 +1491,7 @@ Nous parlerons contre les lois insensées jusqu’à ce qu’on les réforme, et
 <head>§ III – Des espions</head>
 <p rend="noindent">S’abaisser jusqu’à mendier des révélations auprès de ses gens, tomber plus bas qu’eux en leur payant une confidence, ce n’est pas un crime ; c’est peut-être une lâcheté, mais c’est assurément une sottise ; car rien ne vous garantit la probité d’un domestique qui trahit sa maîtresse ; et vous ne saurez jamais s’il est dans vos intérêts ou dans ceux de votre femme. Ce point sera donc une chose jugée sans retour.</p>
 <p>La nature, cette bonne et tendre parente, a placé près d’une mère de famille les espions les plus sûrs et les plus fins, les plus véridiques et en même temps les plus discrets qu’il y ait au monde. Ils sont muets et ils parlent, ils voient tout et ne paraissent rien voir.</p>
-<p>Un jour, un de mes amis me rencontre sur le boulevard ; il m’invite à dîner, et nous allons chez lui. La table était déjà servie, et la maîtresse du logis distribuait à ses deux filles des assiettes pleines d’un fumant potage. – « Voilà de mes <hi rend="i">premiers symptômes</hi> », me dis-je. Nous nous asseyons. Le premier mot du mari, qui n’y entendait pas finesse et qui ne parlait que par désœuvrement, fut de demander : – Est-il venu quelqu’un aujourd’hui ?… – Pas un chat ! lui répond sa femme sans le regarder. Je n’oublierai jamais <pb n="521" xml:id="p521"/> la vivacité avec laquelle les deux filles levèrent les yeux sur leur mère. L’aînée surtout, âgée de huit ans, eut quelque chose de particulier dans le regard. Il y eut tout à la fois des révélations et du mystère, de la curiosité et du silence, de l’étonnement et de la sécurité. S’il y eut quelque chose de comparable à la vélocité avec laquelle cette flamme candide s’échappa de leurs yeux, ce fut la prudence avec laquelle elles déroulèrent toutes deux, comme des jalousies, les plis gracieux de leurs blanches paupières.</p>
+<p>Un jour, un de mes amis me rencontre sur le boulevard ; il m’invite à dîner, et nous allons chez lui. La table était déjà servie, et la maîtresse du logis distribuait à ses deux filles des assiettes pleines d’un fumant potage. – « Voilà de mes <hi rend="i">premiers symptômes</hi> », me dis-je. Nous nous asseyons. Le premier mot du mari, qui n’y entendait pas finesse et qui ne parlait que par désœuvrement, fut de demander : – Est-il venu quelqu’un aujourd’hui ?… – Pas un chat ! lui répond sa femme sans le regarder. Je n’oublierai <pb n="521" xml:id="p521"/> jamais la vivacité avec laquelle les deux filles levèrent les yeux sur leur mère. L’aînée surtout, âgée de huit ans, eut quelque chose de particulier dans le regard. Il y eut tout à la fois des révélations et du mystère, de la curiosité et du silence, de l’étonnement et de la sécurité. S’il y eut quelque chose de comparable à la vélocité avec laquelle cette flamme candide s’échappa de leurs yeux, ce fut la prudence avec laquelle elles déroulèrent toutes deux, comme des jalousies, les plis gracieux de leurs blanches paupières.</p>
 <p>Douces et charmantes créatures qui, depuis l’âge de neuf ans jusqu’à la nubilité, faites souvent le tourment d’une mère, quand même elle n’est pas coquette, est-ce donc par privilége ou par instinct que vos jeunes oreilles entendent le plus faible éclat d’une voix d’homme au travers des murs et des portes, que vos yeux voient tout, que votre jeune esprit s’exerce à tout deviner, même la signification d’un mot dit en l’air, même celle que peut avoir le moindre geste de vos mères ?</p>
 <p>Il y a de la reconnaissance et je ne sais quoi d’instinctif dans la prédilection des pères pour leurs filles, et des mères pour leurs garçons.</p>
 <p>Mais l’art d’instituer des espions en quelque sorte matériels est un enfantillage, et rien n’est plus facile que de trouver mieux que ce bedeau qui s’avisa de placer des coquilles d’œuf dans son lit, et qui n’obtint d’autre compliment de condoléance de la part de son compère stupéfait que : « Tu ne les aurais pas si bien pilés. »</p>
@@ -1937,7 +1905,7 @@ Nous parlerons contre les lois insensées jusqu’à ce qu’on les réforme, et
 <hi rend="sc">§ III. De la Pudeur relativement au Mariage.</hi>
 </p>
 <div>
-<head>§ I – De la Migraine</head>
+<head>§ I – De la migraine</head>
 <p rend="noindent">Les femmes sont constamment les dupes ou les victimes de leur excessive sensibilité ; mais nous avons démontré que, chez la plupart d’entre elles, cette délicatesse d’âme devait, presque toujours à notre insu, recevoir les coups les plus rudes, par le fait du mariage. (Voyez les Méditations intitulées : <hi rend="i">Des prédestinés</hi> et <hi rend="i">De la Lune de Miel</hi>.) La plupart des moyens de défense employés instinctivement par les maris ne sont-ils pas aussi des piéges tendus à la vivacité des affections féminines ?</p>
 <p>Or, il arrive un moment où, pendant la guerre civile, une femme trace par une seule pensée l’histoire de sa vie morale, et s’irrite de l’abus prodigieux que vous avez fait de sa sensibilité. Il est bien rare que les femmes, soit par un sentiment de vengeance inné qu’elles ne s’expliquent jamais, soit par un instinct de domination, ne découvrent pas alors un moyen de gouvernement dans l’art de mettre en jeu chez l’homme cette propriété de sa machine.</p>
 <p>Elles procèdent avec un art admirable à la recherche des cordes qui vibrent le plus dans les cœurs de leurs maris ; et, une fois qu’elles en ont trouvé le secret, elles s’emparent avidement de ce principe ; puis, comme un enfant auquel on a donné un joujou mécanique dont le ressort irrite sa curiosité, elles iront <pb n="580" xml:id="p580"/> jusqu’à l’user, frappant incessamment, sans s’inquiéter des forces de l’instrument, pourvu qu’elles réussissent. Si elles vous tuent, elles vous pleureront de la meilleure grâce du monde, comme le plus vertueux, le plus excellent et le plus sensible des êtres.</p>
@@ -1954,7 +1922,7 @@ Nous parlerons contre les lois insensées jusqu’à ce qu’on les réforme, et
 <p>Ô migraine, protectrice des amours, impôt conjugal, bouclier sur lequel viennent expirer tous les désirs maritaux ! Ô puissante migraine ! est-il bien possible que les amants ne t’aient pas encore célébrée, divinisée, personnifiée ! Ô prestigieuse migraine ! ô fallacieuse migraine, béni soit le cerveau qui le premier te conçut ! honte au médecin qui te trouverait un préservatif ! Oui, tu es le <pb n="583" xml:id="p583"/> seul mal que les femmes bénissent, sans doute par reconnaissance des biens que tu leur dispenses, ô fallacieuse migraine ! ô prestigieuse migraine !</p>
 </div>
 <div>
-<head>§ II – Des Névroses</head>
+<head>§ II – Des névroses</head>
 <p rend="noindent">Il existe une puissance supérieure à celle de la migraine ; et, nous devons avouer à la gloire de la France, que cette puissance est une des conquêtes les plus récentes de l’esprit parisien. Comme toutes les découvertes les plus utiles aux arts et aux sciences, on ne sait à quel génie elle est due. Seulement, il est certain que c’est vers le milieu du dernier siècle que les vapeurs commencèrent à se montrer en France. Ainsi, pendant que Papin appliquait à des problèmes de mécanique la force de l’eau vaporisée, une française, malheureusement inconnue, avait la gloire de doter son sexe du pouvoir de vaporiser ses fluides. Bientôt les effets prodigieux obtenus par les vapeurs mirent sur la voie des nerfs ; et c’est ainsi que, de fibre en fibre, naquit la névrologie. Cette science admirable a déjà conduit les Phillips et d’habiles physiologistes à la découverte du fluide nerveux et de sa circulation ; peut-être sont-ils à la veille d’en reconnaître les organes, et les secrets de sa naissance, de son évaporation. Ainsi, grâce à quelques simagrées, nous devrons de pénétrer un jour les mystères de la puissance inconnue que nous avons déjà nommée plus d’une fois, dans ce livre, <hi rend="i">la volonté</hi>. Mais n’empiétons pas sur le terrain de la philosophie médicale. Considérons les nerfs et les vapeurs seulement dans leurs rapports avec le mariage.</p>
 <p>Les <hi rend="i">névroses</hi> (dénomination pathologique sous laquelle sont comprises toutes les affections du système nerveux) sont de deux sortes relativement à l’emploi qu’en font les femmes mariées, car notre Physiologie a le plus superbe dédain des classifications médicales. Ainsi nous ne reconnaissons que :</p>
 <p>1º <hi rend="sc">des névroses classiques ;</hi>
